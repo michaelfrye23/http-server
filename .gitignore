@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS / Windows OS files
+.DS_Store
+Thumbs.db
+
+# VSCode and editor settings
+.vscode/
+*.swp
+
+# Logs or test artifacts
+*.log
+
+# Optional Python tool configs
+Pipfile
+Pipfile.lock
